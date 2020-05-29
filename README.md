@@ -1,1 +1,3 @@
 # Cryptology2020inTHU
+
+按标准实现了AES128、SM4、DES、RC4、SM3、SHA2-256、SHA3-256、B-M算法。
